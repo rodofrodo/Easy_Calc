@@ -29,23 +29,23 @@ I wrote in the title that this app is simple, yet I spent quite a lot hours on i
 
 ## Screenshots
 <div align=center>
-  <img width="270" alt="image" src="https://github.com/user-attachments/assets/e571e4b6-942a-4d6d-a8bb-852839ba8e79" />
+  <img width="240" alt="image" src="https://github.com/user-attachments/assets/e571e4b6-942a-4d6d-a8bb-852839ba8e79" />
   &nbsp;
-  <img width="270" alt="image" src="https://github.com/user-attachments/assets/21ffe1b2-ed93-4d97-a93f-cff25afa3e1c" />
+  <img width="240" alt="image" src="https://github.com/user-attachments/assets/21ffe1b2-ed93-4d97-a93f-cff25afa3e1c" />
   &nbsp;
-  <img width="270" alt="image" src="https://github.com/user-attachments/assets/140817da-f5d2-4b52-83fa-76a131f98dfd" />
+  <img width="240" alt="image" src="https://github.com/user-attachments/assets/140817da-f5d2-4b52-83fa-76a131f98dfd" />
   &nbsp;
-  <img width="270" alt="image" src="https://github.com/user-attachments/assets/1dca7e26-64c4-4a4d-8e50-ca43ded0c602" />
+  <img width="240" alt="image" src="https://github.com/user-attachments/assets/1dca7e26-64c4-4a4d-8e50-ca43ded0c602" />
   &nbsp;
-  <img width="270" alt="image" src="https://github.com/user-attachments/assets/130423c8-d190-4102-a662-f054970fd848" />
+  <img width="240" alt="image" src="https://github.com/user-attachments/assets/130423c8-d190-4102-a662-f054970fd848" />
   &nbsp;
-  <img width="270" alt="image" src="https://github.com/user-attachments/assets/13d18bb7-c70a-4df1-808e-dedbb37e8dfe" />
+  <img width="240" alt="image" src="https://github.com/user-attachments/assets/13d18bb7-c70a-4df1-808e-dedbb37e8dfe" />
   &nbsp;
-  <img width="270" alt="image" src="https://github.com/user-attachments/assets/6d2022f4-50a9-4d96-b07a-08048dd0a6a7" />
+  <img width="240" alt="image" src="https://github.com/user-attachments/assets/6d2022f4-50a9-4d96-b07a-08048dd0a6a7" />
   &nbsp;
-  <img width="270" alt="image" src="https://github.com/user-attachments/assets/d643774d-6fa9-44e5-bd72-3354d913302c" />
+  <img width="240" alt="image" src="https://github.com/user-attachments/assets/d643774d-6fa9-44e5-bd72-3354d913302c" />
   &nbsp;
-  <img width="270" alt="image" src="https://github.com/user-attachments/assets/5967a481-2a70-43eb-a8a4-52543964603c" />
+  <img width="240" alt="image" src="https://github.com/user-attachments/assets/5967a481-2a70-43eb-a8a4-52543964603c" />
   &nbsp;
 </div>
 
